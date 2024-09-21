@@ -13,4 +13,7 @@ Torne seu repositorio do projeto gerenciavel pelo git
 ```bash
   git init  
 ```
-    
+## Salvando a alteração
+
+´´´bash 
+ git commit -m"coloque aqui sua mensagem"    
